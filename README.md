@@ -37,7 +37,7 @@
 
 Выполнение исправленного кода
 
-![terraform main.tf.jpg](83MYgnuLYNAKaiBaYHepTCgSL9SrB1H78EGtdY1uzmkcQJqv27tDdCpBSczcJDrpfMBnXL4wHsqJVchH6X4nxdem7DU12Fc)
+![terraform main.tf.jpg](https://github.com/OshchepkovDP/ter-homeworks-01-hw-01.md/blob/main/img/terraform_main.jpg)
 
 ![Docker_ps.jpg](https://github.com/OshchepkovDP/ter-homeworks-01-hw-01.md/blob/main/img/Docker_ps.jpg)
 
